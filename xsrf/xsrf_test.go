@@ -8,8 +8,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/blue-jay/core/view"
-	"github.com/blue-jay/core/xsrf"
+	"github.com/gonavi2017/core/view"
+	"github.com/gonavi2017/core/xsrf"
 
 	"github.com/gorilla/csrf"
 )

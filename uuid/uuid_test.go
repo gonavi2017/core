@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blue-jay/core/uuid"
+	"github.com/gonavi2017/core/uuid"
 )
 
 // TestGenerate ensures the ID is generated properly.

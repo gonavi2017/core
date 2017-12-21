@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/blue-jay/core/storage"
-	"github.com/blue-jay/core/storage/migration"
-	"github.com/blue-jay/core/storage/migration/mysql"
+	"github.com/gonavi2017/core/storage"
+	"github.com/gonavi2017/core/storage/migration"
+	"github.com/gonavi2017/core/storage/migration/mysql"
 
 	"github.com/jmoiron/sqlx"
 )

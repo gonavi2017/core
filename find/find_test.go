@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/blue-jay/core/find"
+	"github.com/gonavi2017/core/find"
 )
 
 // TestRun ensures find works properly.
